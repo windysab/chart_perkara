@@ -1,0 +1,1 @@
+from app.routes import index, doughnut, line_chart
